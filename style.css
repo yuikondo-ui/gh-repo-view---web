@@ -56,6 +56,22 @@ body {
     margin-bottom: 40px;
 }
 
+#karuta {
+  background-image: url(https://www.saitama-np.co.jp/news/2018/06/25/09.jpg);
+  background-size: cover;
+  color: white;
+  height: 500px;
+}
+
+#karuta h2 {
+  color: white;
+  font-weight: 600;
+}
+#karuta p {
+  color: white;
+  font-weight: 400;
+}
+
 /*rgb(104,132,193)*/
 h2 {
     color: rgb(104,132,193);
